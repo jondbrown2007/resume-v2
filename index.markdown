@@ -5,7 +5,7 @@
 College  
 Total years: 2 
 
-###High School Diploma###  
+### High School Diploma  
 Our Lady of Mount Carmel SS  
 September 2021 to June 2025
 
