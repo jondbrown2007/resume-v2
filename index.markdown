@@ -1,12 +1,12 @@
 # Jonathan Brown
 
 ## Education
-### Highest level of Education  
-College  
-Total years: 2 
+### College Diploma in Graphic Design  
+Humber Polytechnic - Etobicoke, ON
+September 2025 to Present
 
 ### High School Diploma  
-Our Lady of Mount Carmel SS  
+Our Lady of Mount Carmel SS - Mississauga, ON
 September 2021 to June 2025
 
 ## Work Experience
