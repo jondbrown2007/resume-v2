@@ -1,8 +1,7 @@
 # Jonathan Brown
-## Resume
 
+## Personal Details
+**Highest level of education:** Secondary School
+total years: 4 
 
-
-## About Me
-
-Hi, My name is **Jonathan** I learn code.
+##
