@@ -1,7 +1,7 @@
 # Jonathan Brown
 ## Resume
 
-This is my home page.
+
 
 ## About Me
 
