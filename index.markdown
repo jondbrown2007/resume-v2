@@ -4,7 +4,7 @@ Hi, My name is Jonathan Brown. I am a student at Humber Polytechnic. lorem ipsum
 consectetur adipiscing elit dolore odio velit do et sed deleniti enim proident ducimus officia  
 et est cillum blanditiis provident sed.
 
-[My LinkedIn Profile](www.linkedin.com/in/jonathan-dom-brown07)
+<a href="www.linkedin.com/in/jonathan-dom-brown07">My LinkedIn</a>
 
 ## Education
 ### College Diploma in Graphic Design  
