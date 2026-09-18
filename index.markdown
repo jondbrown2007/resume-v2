@@ -1,8 +1,12 @@
 # Jonathan Brown
 
 ## Education
-**Highest level of education:** College  
-total years: 2 
+**Highest level of Education:** College  
+Total years: 2 
+
+**High School Diploma**  
+Our Lady of Mount Carmel SS  
+September 2021 to June 2025
 
 ## Work Experience
 ### Social Media Manager
