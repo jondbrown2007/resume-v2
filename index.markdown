@@ -1,5 +1,7 @@
 # Jonathan Brown
 
+[My LinkedIn Profile](www.linkedin.com/in/jonathan-dom-brown07)
+
 ## Education
 ### College Diploma in Graphic Design  
 Humber Polytechnic - Etobicoke, ON  
@@ -18,5 +20,6 @@ I worked with the Girls Gone Wellness podcast for a Co-op program alongside anot
 clips for each podcast episode and helped them create their YouTube Channel.
 
 ## Portfolio
+
 
 
