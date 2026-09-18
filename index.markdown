@@ -1,7 +1,7 @@
 # Jonathan Brown
 
 ## Education
-**Highest level of education:** College
+**Highest level of education:** College  
 total years: 2 
 
 ## Work Experience
