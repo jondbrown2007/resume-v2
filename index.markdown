@@ -1,7 +1,7 @@
 # Jonathan Brown
 
 ## Education
-###Highest level of Education##  
+###Highest level of Education
 College  
 Total years: 2 
 
