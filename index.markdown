@@ -25,5 +25,5 @@ clips for each podcast episode and helped them create their YouTube Channel.
 
 ## Portfolio
 
-![Insert poster](insertposter1-JonathanBrown_front)
+![Insert poster](/insertposter1-JonathanBrown_front)
 
